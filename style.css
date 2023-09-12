@@ -145,8 +145,19 @@ body{
 }
 
 .single-project-title{
+    font-family: "vcr_osd_monoregular", Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: italic;
+    align-self: flex-start;
     font-weight: normal;
+    width: 100%;
 }
+
+.single-project-title{
+    margin-bottom: 2em;
+}
+
 
 a:hover{
     color: blue;

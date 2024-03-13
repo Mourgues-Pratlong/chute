@@ -89,7 +89,11 @@ img{
 }
 
 .single-project-title{
-    margin-bottom: 2em;
+    margin-bottom: 0.8em;
+}
+
+.description{
+    margin-bottom: 3em;
 }
 
 .presentation-text{

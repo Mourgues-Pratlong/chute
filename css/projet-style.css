@@ -65,7 +65,7 @@ img{
 .pictures .picture{
     margin-bottom:  3.5em;
     transform: scale(1) !important;
-    max-width: 40em;
+    max-width: 100%;
 }
 
 .sidebar{
@@ -104,7 +104,7 @@ img{
     font-style: italic;
 }
 
-@media screen and (max-width: 100%){
+@media screen and (max-width: 1082px){
 
     .pictures{
         padding-top: 20em;

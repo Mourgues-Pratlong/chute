@@ -47,7 +47,8 @@ img{
 /**/
 
 .main-project-content{
-    margin-top: 3.5em;
+    
+    margin-top: 12em;
     display: flex;
     flex-direction: row;
     width: 300%;

@@ -68,14 +68,19 @@ img{
     max-width: 100%;
 }
 
+.pictures .video{
+    width: 100% 
+}
+
 .sidebar{
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 30%;
     margin: 4em 0em 0em 2em;
     font-family: 'Libre Baskerville', serif;
     font-size: 0.8em;
     position: fixed;
+    
 }
 
 .single-project-title{

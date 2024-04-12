@@ -7,6 +7,14 @@
     font-style: normal;
 
 }
+@font-face {
+    font-family: "vcr_osd_monoregular";
+    src: url('fonts/shijuef.com(gongfanmianfeiti) Regular/shijuef.com(gongfanmianfeiti) Regular.ttf');
+
+    font-weight: normal;
+    font-style: normal;
+
+}
 
 /*
 Reset
